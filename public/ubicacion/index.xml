@@ -5,14 +5,18 @@
     <link>http://example.org/ubicacion/</link>
     <description>Recent content in Ubicacions on El blog de Johanna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://example.org/ubicacion/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Tue, 21 Sep 2021 09:58:34 +0200</lastBuildDate><atom:link href="http://example.org/ubicacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Ubicacion</title>
       <link>http://example.org/ubicacion/ubicacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Sep 2021 09:58:34 +0200</pubDate>
       
       <guid>http://example.org/ubicacion/ubicacion/</guid>
-      <description></description>
+      <description>Esta semana te compartimos la ubicación de estos tres restaurantes asiaticos que te recomendamos para que lo visites y nos cuentes a tráves de nuestro formulario de sugerencias.
+*1-Bokoto ubicacion:C. Jerónimo Zurita, 19 50001. Zaragoza.
+*2-Uasabi ubicacion: calle cuatro de agosto 18, 50003. Zaragoza.
+*3-Naoki ubicacion: C.Miguel de Cervantes,10, 50006. Zaragoza.</description>
     </item>
     
   </channel>

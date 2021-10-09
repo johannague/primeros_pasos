@@ -17,20 +17,20 @@ theme = 'tale'
 	url = "/noticias/"
 	weight = 3
    [[menu.main]]
-	identifier = "ubicación"
+	identifier = "ubicacion"
 	name = "Ubicación"
 	title = "Ubicación"
-	url = "/ ubicación/"
+	url = "/ubicacion/"
 	weight = 3
 	[[menu.main]]
 	identifier = "formulario"
 	name = "Formulario"
 	title = "Formulario"
-	url = "/formulario/"
+	url = "CustomHtml/formulario.html"
 	weight = 3
 
 [outputs]
   home = ["HTML", "JSON"]
 
 [Params]
-css = ["custom.css"]
+css = ["css/estilos.css"]
